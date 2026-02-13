@@ -23,8 +23,8 @@
 
 ## 与 AI 协作
 
-- AI 生成的文档默认- 每次修改保存到此仓库
-后需要 `git push`
+- AI 生成的文档默认保存到此仓库
+- 每次修改保存后需要 `git push`
 - 使用 Obsidian + Claude Code 管理
 
 ---
